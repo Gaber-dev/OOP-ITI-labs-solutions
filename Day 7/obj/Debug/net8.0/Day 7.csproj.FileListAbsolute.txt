@@ -1,0 +1,14 @@
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\bin\Debug\net8.0\Day 7.exe
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\bin\Debug\net8.0\Day 7.deps.json
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\bin\Debug\net8.0\Day 7.runtimeconfig.json
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\bin\Debug\net8.0\Day 7.dll
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\bin\Debug\net8.0\Day 7.pdb
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.AssemblyInfoInputs.cache
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.AssemblyInfo.cs
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.csproj.CoreCompileInputs.cache
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.dll
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\refint\Day 7.dll
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.pdb
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\Day 7.genruntimeconfig.cache
+E:\.Net track\OOP ITI Labs\Day 7\Day 7\obj\Debug\net8.0\ref\Day 7.dll
