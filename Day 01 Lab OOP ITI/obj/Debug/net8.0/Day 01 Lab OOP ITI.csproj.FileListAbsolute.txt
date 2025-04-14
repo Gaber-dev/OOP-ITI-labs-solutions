@@ -1,0 +1,14 @@
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\bin\Debug\net8.0\Day 01 Lab OOP ITI.exe
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\bin\Debug\net8.0\Day 01 Lab OOP ITI.deps.json
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\bin\Debug\net8.0\Day 01 Lab OOP ITI.runtimeconfig.json
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\bin\Debug\net8.0\Day 01 Lab OOP ITI.dll
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\bin\Debug\net8.0\Day 01 Lab OOP ITI.pdb
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.AssemblyInfoInputs.cache
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.AssemblyInfo.cs
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.csproj.CoreCompileInputs.cache
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.dll
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\refint\Day 01 Lab OOP ITI.dll
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.pdb
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\Day 01 Lab OOP ITI.genruntimeconfig.cache
+E:\.Net track\OOP ITI Labs\Day 01 Lab OOP ITI\Day 01 Lab OOP ITI\obj\Debug\net8.0\ref\Day 01 Lab OOP ITI.dll
